@@ -37,7 +37,7 @@ export default {
   // Modules for dev and build (recommended) (https://go.nuxtjs.dev/config-modules)
   buildModules: [
   ],
-  router: { base: '/beritaku/' },
+  router: { base: '/my-news/' },
 
   // Modules (https://go.nuxtjs.dev/config-modules)
   modules: [
